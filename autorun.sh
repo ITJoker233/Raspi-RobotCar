@@ -6,5 +6,7 @@ sudo chmod 770 Car/csb.py
 sudo chmod 770 Car/ip.py
 sudo chmod 770 Car/Read.py
 sudo chmod 770 Car/config.conf
+sudo chmod 770 start.sh
+echo '-----------------------------'
 Result="The Program is  Initialized!"
 echo $Result
