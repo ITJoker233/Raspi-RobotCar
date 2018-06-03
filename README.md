@@ -6,3 +6,4 @@
 sudo sh autorun.sh
 ./start.sh
 程序启动脚本为start.sh
+程序更新脚本为updata.sh
